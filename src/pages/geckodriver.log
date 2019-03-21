@@ -1,0 +1,1393 @@
+1552529052328	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.gbySzUHFNfUB"
+1552529053486	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552529056244	Marionette	INFO	Listening on port 59806
+1552529056649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552529056707	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 12952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552529105548	Marionette	INFO	Listening on port 59847
+1552529106038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552529106108	Marionette	DEBUG	Register listener.js for window 4294967297
+1552529106138	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552529106199	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552529106200	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552529106955	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552529107856	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552529108144	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552529111153	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529111249	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529111249	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/forecom/member/member_mgr.shtml, line 1400: TypeError: $(...).tooltip is not a function
+1552529111814	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
+1552529112247	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
+[Parent 5080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552529352111	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.9IHlYWEg7mKr"
+1552529353367	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552529355466	Marionette	INFO	Listening on port 59913
+1552529355496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552529355573	Marionette	DEBUG	Register listener.js for window 4294967297
+1552529355610	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552529355706	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552529355707	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552529356516	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552529357424	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552529357713	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552529360722	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529360796	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529360796	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529360895	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/forecom/member/member_mgr.shtml, line 1400: TypeError: $(...).tooltip is not a function
+1552529361613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
+1552529362008	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
+1552529362023	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
+1552529362060	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
+1552529362060	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
+1552529362193	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+1552529362407	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552529363102	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552529363347	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552529451259	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552529451571	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552529454583	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529454708	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529454708	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529454809	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/forecom/member/member_mgr.shtml, line 1400: TypeError: $(...).tooltip is not a function
+1552529455799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
+1552529456171	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
+1552529456182	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
+1552529456232	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
+1552529456232	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
+1552529456360	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+1552529456584	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552529457739	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552529457980	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 12816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+1552529515641	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.cAQ23dpFouj9"
+1552529518276	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552529520397	Marionette	INFO	Listening on port 60035
+1552529520565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552529520625	Marionette	DEBUG	Register listener.js for window 4294967297
+1552529520655	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552529520713	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552529520713	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552529521483	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552529522403	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552529522692	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552529528705	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529528753	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529528753	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529528896	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+1552529529119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552529529693	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552529532928	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552529771382	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.pHVFaRXjPfNc"
+1552529772586	Marionette	INFO	Enabled via --marionette
+1552529775273	Marionette	INFO	Listening on port 60310
+1552529775730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552529775791	Marionette	DEBUG	Register listener.js for window 4294967297
+1552529775849	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552529775920	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552529775921	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552529777028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552529778409	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552529778695	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552529784708	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529784756	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529784756	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529784903	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+1552529785119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552529785722	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552529789092	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 9360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+1552529934891	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.hYjUP9pkrVU2"
+1552529935656	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552529937735	Marionette	INFO	Listening on port 60369
+1552529938103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552529938168	Marionette	DEBUG	Register listener.js for window 4294967297
+1552529938198	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552529938253	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552529938254	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552529939031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552529940746	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552529941036	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552529947047	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529947090	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529947090	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552529947232	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+1552529947475	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552529948088	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552529951343	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552530344831	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.STpZ7uit60b0"
+1552530345560	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552530347743	Marionette	INFO	Listening on port 60637
+1552530348041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552530348103	Marionette	DEBUG	Register listener.js for window 4294967297
+1552530348138	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552530348214	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552530348214	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552530349004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552530350059	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552530350358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552530356368	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552530356416	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552530356416	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552530356593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+1552530356848	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552530358011	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552530361263	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11416, Chrome_ChildThread] WARNING: pipe errUnable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552531177394	Marionette	INFO	Listening on port 60748
+1552531177444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552531177510	Marionette	DEBUG	Register listener.js for window 4294967297
+1552531177555	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552531177620	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552531177620	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552531178400	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552531179132	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552531179419	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552531185429	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531185470	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531185470	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531185620	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+1552531185869	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552531186649	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+[Child 1596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+able to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552531238060	Marionette	INFO	Listening on port 60801
+1552531238146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552531238233	Marionette	DEBUG	Register listener.js for window 4294967297
+1552531238259	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552531238339	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552531238339	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552531239153	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552531240018	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552531240302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552531246316	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531246368	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531246368	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531246502	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+1552531246717	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552531247296	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+[Parent 7712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552531299983	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.wpWtIkbKMgq3"
+1552531300687	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552531302893	Marionette	INFO	Listening on port 60851
+1552531303210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552531303280	Marionette	DEBUG	Register listener.js for window 4294967297
+1552531303310	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552531303418	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552531303418	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552531304197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552531304932	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552531305219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552531311235	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531311296	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531311296	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531311443	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+1552531311672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552531312258	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552531315531	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552531315768	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+1552531363903	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.uoXSCg5LVNNU"
+1552531364603	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552531366683	Marionette	INFO	Listening on port 60904
+1552531367184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552531367253	Marionette	DEBUG	Register listener.js for window 4294967297
+1552531367281	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552531367338	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552531367339	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552531368122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552531369015	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552531369302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552531375313	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531375361	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531375361	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531375508	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+1552531375737	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552531376391	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552531379670	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552531379901	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552531762419	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.kmesfRVltTkK"
+1552531763194	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552531765199	Marionette	INFO	Listening on port 60974
+1552531765678	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552531765742	Marionette	DEBUG	Register listener.js for window 4294967297
+1552531765771	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552531765837	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552531765837	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552531766695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552531767684	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552531767976	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552531773989	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531774043	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531774043	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531774187	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+1552531774422	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552531775012	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552531778282	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552531781521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1552531843666	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.AtrLHWxUGbda"
+1552531844582	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552531846877	Marionette	INFO	Listening on port 61031
+1552531847000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552531847064	Marionette	DEBUG	Register listener.js for window 4294967297
+1552531847109	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552531847172	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552531847173	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552531848140	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552531848976	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552531849260	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552531855271	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531855307	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531855307	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531855453	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+1552531855680	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552531856966	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552531860228	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552531863474	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s.vrpath
+[Child 2044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552531901782	Marionette	INFO	Listening on port 61096
+1552531902187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552531902258	Marionette	DEBUG	Register listener.js for window 4294967297
+1552531902309	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552531902371	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552531902372	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552531903109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552531904319	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552531904600	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552531910613	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531910673	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531910673	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552531910805	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+1552531911092	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552531911676	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552531914952	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 10284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552532303275	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.xgEeUOKY4RHc"
+1552532304280	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552532306272	Marionette	INFO	Listening on port 61184
+1552532306487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552532306561	Marionette	DEBUG	Register listener.js for window 4294967297
+1552532306600	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552532306658	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552532306658	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552532307463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552532308201	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552532308488	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552532314501	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552532314542	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552532314543	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552532314708	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml, line 1452: TypeError: $(...).tooltip is not a function
+1552532314942	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552532315803	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml"
+1552532319085	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552532328467	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552532328718	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552532331967	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552532335204	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_buy.shtml?menu_no=51001204, line 1452: TypeError: $(...).tooltip is not a function
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=001&buyorsell=2, line 1906: TypeError: $(...).tooltip is not a function
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/trade/invoice/invoice_sell.shtml?menu_no=51011604, line 1451: TypeError: $(...).tooltip is not a function
+[Child 9968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552641680618	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.kV0tiXM1cww9"
+1552641681377	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552641683587	Marionette	INFO	Listening on port 49364
+1552641683873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552641683961	Marionette	DEBUG	Register listener.js for window 4294967297
+1552641684007	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552641684071	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552641684071	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552641684804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552641685910	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552641686219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552641692235	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552641692365	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552641692365	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552641692519	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101, line 1284: TypeError: $(...).tooltip is not a function
+1552641692723	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552641692865	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552641695915	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552641696160	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552641696162	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552641696336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101, line 4066: TypeError: $(...).tooltip is not a function
+1552641697729	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552641699348	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552641702606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552641946737	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.nYZEfkO08waA"
+1552641947534	Marionette	INFO	Enabled via --marionette
+1552641956217	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.w9XVqMQo5O1z"
+1552641956917	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552641959046	Marionette	INFO	Listening on port 50014
+1552641959454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552641959519	Marionette	DEBUG	Register listener.js for window 4294967297
+1552641959555	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552641959628	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552641959628	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552641960367	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552641961659	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552641961946	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552641967965	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552641968028	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552641968028	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552641968203	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101, line 1284: TypeError: $(...).tooltip is not a function
+1552641968483	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552641968487	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552641971516	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552641971691	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552641971692	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552641971876	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101, line 4066: TypeError: $(...).tooltip is not a function
+1552641973780	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552641975780	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552641979047	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 7752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+for "about:blank"
+1552642045734	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552642045735	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552642046527	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552642047456	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552642047739	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642053749	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642053854	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642053854	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642054016	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101, line 1284: TypeError: $(...).tooltip is not a function
+1552642054288	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642054431	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642057463	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642057867	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642057867	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642058007	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101, line 4066: TypeError: $(...).tooltip is not a function
+1552642059673	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552642062146	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552642065399	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642068659	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101, line 1284: TypeError: $(...).tooltip is not a function
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101, line 4066: TypeError: $(...).tooltip is not a function
+[Child 12844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x440006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+pe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552642376632	Marionette	INFO	Listening on port 51012
+1552642376901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552642376977	Marionette	DEBUG	Register listener.js for window 4294967297
+1552642377000	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552642377289	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552642377289	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552642378060	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552642379373	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552642379657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552642385667	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642385741	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642385741	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642385880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101, line 1284: TypeError: $(...).tooltip is not a function
+1552642386065	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642386220	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642389268	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642389419	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642389419	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642389595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101, line 4066: TypeError: $(...).tooltip is not a function
+1552642391039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552642393351	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552642396595	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642399846	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552642555684	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.gCuCsl7mR2Dd"
+1552642556598	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552642558891	Marionette	INFO	Listening on port 51489
+1552642559039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552642559111	Marionette	DEBUG	Register listener.js for window 4294967297
+1552642559161	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552642559233	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552642559234	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552642560008	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552642561006	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552642561299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642567309	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642567578	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642567579	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642567736	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101, line 1284: TypeError: $(...).tooltip is not a function
+1552642567935	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642568077	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642571130	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642571265	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642571266	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642571435	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101, line 4066: TypeError: $(...).tooltip is not a function
+1552642573045	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552642575335	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552642578581	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642581845	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642582592	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642583335	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642584075	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642584818	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642585556	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642586304	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642587046	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642587785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642588523	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642589266	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642590001	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642590728	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642591465	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642592201	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642592942	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642593681	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642594423	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642595160	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642595907	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642596657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642597381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642598114	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642598851	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642599587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642600327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642601069	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642601809	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642602542	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642603271	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642604006	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642604752	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642605493	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642606218	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642606957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642607682	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642608419	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642609161	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642609893	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642610635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642611373	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+1552642699560	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.TLjbe4XwfcNg"
+1552642700311	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552642702579	Marionette	INFO	Listening on port 51839
+1552642702800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552642702885	Marionette	DEBUG	Register listener.js for window 4294967297
+1552642703025	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552642703105	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552642703105	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552642704026	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552642704974	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552642705263	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552642711281	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642711346	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642711347	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642711505	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101, line 1284: TypeError: $(...).tooltip is not a function
+1552642711672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642711817	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642714865	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642714998	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642714999	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642715173	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101, line 4066: TypeError: $(...).tooltip is not a function
+1552642716924	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552642718781	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552642722034	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642725290	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642726050	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642726790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642727526	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642728269	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642729003	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642729743	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642730477	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642731213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642731948	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642732698	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642733436	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642734418	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642735158	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642735886	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642736626	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642737358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642738090	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642738826	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642739561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642740299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642741028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642741762	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642742505	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642743241	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642743982	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642744715	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642745456	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642746189	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642746921	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642747653	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642748389	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642749126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642749859	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642750590	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642751323	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642752057	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642752794	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642753527	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642754262	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642754995	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 12532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552642873473	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.nNsgZ523kd23"
+1552642874219	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552642876477	Marionette	INFO	Listening on port 52255
+1552642876783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552642876848	Marionette	DEBUG	Register listener.js for window 4294967297
+1552642876873	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552642876934	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552642876934	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552642877766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552642879180	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552642879457	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552642885470	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642885534	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642885535	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552642885692	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101, line 1284: TypeError: $(...).tooltip is not a function
+1552642885902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642886041	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642889081	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642889223	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642889223	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552642889383	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101, line 4066: TypeError: $(...).tooltip is not a function
+1552642890812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552642892958	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552642896210	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642899464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642900206	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642900947	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642901693	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642902437	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642903184	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642903924	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642904655	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642905609	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642906376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642907120	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642907852	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642908597	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642909330	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642910068	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642910812	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642911546	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642912284	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642913017	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642913755	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642914504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642915243	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642915977	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642916706	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642917444	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642918261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642919000	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642919743	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642920480	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642921376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642922158	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642922967	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642923718	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642924458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642925197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642925918	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642926644	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642927385	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642928125	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552642928872	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 11716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552643132073	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.3Ody6Gh1AdV7"
+1552643132812	Marionette	INFO	Enabled via --marionette
+1552643134942	Marionette	INFO	Listening on port 52848
+1552643135365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552643135433	Marionette	DEBUG	Register listener.js for window 4294967297
+1552643135471	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552643135695	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552643135696	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552643136733	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552643137561	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552643137869	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552643143881	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552643143951	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552643143951	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552643144102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101, line 1284: TypeError: $(...).tooltip is not a function
+1552643144274	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643144405	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643147451	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643147595	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643147596	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643147777	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101, line 4066: TypeError: $(...).tooltip is not a function
+1552643149279	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552643150934	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552643154185	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643160472	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+1552643663837	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.moglJ5Pi0ndn"
+1552643664555	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552643666813	Marionette	INFO	Listening on port 54169
+1552643667047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552643667110	Marionette	DEBUG	Register listener.js for window 4294967297
+1552643667157	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552643667222	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552643667222	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552643667939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552643669794	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552643670087	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552643676101	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552643676158	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552643676159	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552643676318	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101, line 1284: TypeError: $(...).tooltip is not a function
+1552643676518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643676669	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643679720	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643679874	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643679875	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643680026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101, line 4066: TypeError: $(...).tooltip is not a function
+1552643681806	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552643683430	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552643686685	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643689943	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643690691	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643691432	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643692173	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643692921	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643693672	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643694404	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643695140	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643695884	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643696621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643697359	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643698097	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643698834	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643699573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552643752625	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.pYTvQHxSjcHz"
+1552643753480	Marionette	INFO	Enabled via --marionette
+1552643755594	Marionette	INFO	Listening on port 54401
+1552643755857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552643755936	Marionette	DEBUG	Register listener.js for window 4294967297
+1552643755967	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552643756023	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552643756024	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552643756793	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552643757555	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552643757844	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552643763859	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552643763939	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552643763939	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552643764090	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101, line 1284: TypeError: $(...).tooltip is not a function
+1552643764261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643764428	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643767510	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643767689	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643767690	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643767853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101, line 4066: TypeError: $(...).tooltip is not a function
+1552643769366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552643770888	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552643774138	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643777384	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643778126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643778866	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643779609	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643780336	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643781077	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643781819	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643782569	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643783298	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643784040	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643784778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643785520	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643786248	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643786983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1552643860802	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.SF58zSv9BjKS"
+1552643861595	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552643863678	Marionette	INFO	Listening on port 54676
+1552643864053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552643864121	Marionette	DEBUG	Register listener.js for window 4294967297
+1552643864214	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552643864281	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552643864281	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552643865037	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552643866163	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552643866452	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1552643872469	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552643872534	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552643872535	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552643872747	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101, line 1284: TypeError: $(...).tooltip is not a function
+1552643873012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643873199	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643876256	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643876396	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643876397	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552643876561	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101, line 4066: TypeError: $(...).tooltip is not a function
+1552643878037	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552643879874	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552643883126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643886728	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643887470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643888216	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643888973	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643889718	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643890461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643891207	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643891941	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643892683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643893422	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643894159	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643894895	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643895658	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552643896386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":172,"stack":["resource://gre/modules/CrashMonitor.jsm:init:172","jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:observe:24"]}] Barrier: OS.File: Waiting for clients before profileBeforeChange
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+5.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552644509790	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552644509790	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1552644509976	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101, line 1284: TypeError: $(...).tooltip is not a function
+1552644510176	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552644510321	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552644513363	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552644513508	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552644513509	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/seller/addgoods_select.shtml?menu_no=51010101"
+1552644513659	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101, line 4066: TypeError: $(...).tooltip is not a function
+1552644515513	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552644516994	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/seller/addgoods.shtml?menu_no=51010101"
+1552644520257	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552644523885	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://211.145.72.68:8080/foretrade/webpage/etrade/pages/gxs/trade/addgoods/addlisting.js, line 2934: ReferenceError: initatt is not defined
+1552644527348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+[Parent 1264, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1553131865484	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.NBrnfQH5BtYv"
+1553131869416	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1553131880135	Marionette	INFO	Listening on port 60074
+1553131880738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553131880900	Marionette	DEBUG	Register listener.js for window 4294967297
+1553131881841	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553131882484	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553131882484	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553131884335	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553131885486	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553131886080	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1553131892096	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553131892227	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553131892228	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553131892587	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.69:8080/forecom/login.shtml?ref_url=%2Fforetrade%2Fgxs%2Fcustomer%2Fsupplierinformation.shtml%3Fmenu_no%3D510301011%26is_nav%3D0%26is_basic%3D0&layout=&goback=, line 266: TypeError: $(...).tooltip is not a function
+1553131892958	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.69:8080/forecom/login.shtml?ref_url=%2Fforetrade%2Fgxs%2Fcustomer%2Fsupplierinformation.shtml%3Fmenu_no%3D510301011%26is_nav%3D0%26is_basic%3D0&layout=&goback="
+1553131894771	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.69:8080/forecom/login.shtml?ref_url=%2Fforetrade%2Fgxs%2Fcustomer%2Fsupplierinformation.shtml%3Fmenu_no%3D510301011%26is_nav%3D0%26is_basic%3D0&layout=&goback="
+1553131912713	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.J9AfQyw6N2D0"
+1553131914174	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1553131916528	Marionette	INFO	Listening on port 60279
+1553131917020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553131917089	Marionette	DEBUG	Register listener.js for window 4294967297
+1553131917116	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553131917221	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553131917221	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553131918006	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553131918919	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553131919219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1553131925231	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553131925882	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553131925883	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553131926104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0, line 3026: TypeError: $(...).tooltip is not a function
+1553131927092	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0"
+1553131928690	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0"
+1553131932021	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1553131935358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553131960563	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.KlJhHOuz5gvT"
+1553131961857	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1553131964050	Marionette	INFO	Listening on port 60473
+1553131964391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553131964457	Marionette	DEBUG	Register listener.js for window 4294967297
+1553131964487	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553131964561	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553131964562	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553131965336	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553131966124	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553131966418	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1553131972430	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553131972674	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553131972675	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553131972867	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0, line 3026: TypeError: $(...).tooltip is not a function
+1553131973659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0"
+1553131975566	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0"
+1553131978884	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1553131982219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+1553132668728	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.FbSdlMbr0jrj"
+1553132670677	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1553132672977	Marionette	INFO	Listening on port 62814
+1553132673054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553132673113	Marionette	DEBUG	Register listener.js for window 4294967297
+1553132673151	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553132673240	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553132673241	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553132674032	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553132675240	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553132675553	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1553132681954	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553132682165	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553132682165	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553132682378	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0, line 3026: TypeError: $(...).tooltip is not a function
+1553132682988	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0"
+1553132684865	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0"
+1553132688165	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1553132691622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553132752728	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.L7aU9OGUSpSo"
+1553132754027	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1553132756249	Marionette	INFO	Listening on port 63115
+1553132756554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553132756614	Marionette	DEBUG	Register listener.js for window 4294967297
+1553132756646	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553132756726	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553132756726	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553132757521	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553132758434	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553132758722	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1553132765093	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553132765293	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553132765293	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553132765493	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0, line 3026: TypeError: $(...).tooltip is not a function
+1553132766642	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0"
+1553132768227	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0"
+1553132771521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1553132774820	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1553132832646	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.d75ZulCoH7a4"
+1553132834427	Marionette	INFO	Enabled via --marionette
+1553132836570	Marionette	INFO	Listening on port 63403
+1553132836962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553132837033	Marionette	DEBUG	Register listener.js for window 4294967297
+1553132837071	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553132837139	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553132837139	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553132837952	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553132838797	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553132839093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1553132845483	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553132845708	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553132845708	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553132845887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0, line 3026: TypeError: $(...).tooltip is not a function
+1553132846805	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0"
+1553132847542	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0"
+1553132850842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1553132854159	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553133290917	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1553133297291	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553133297509	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553133297509	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553133297695	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0, line 3026: TypeError: $(...).tooltip is not a function
+1553133298648	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0"
+1553133302096	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0"
+1553133305383	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1553133308727	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1553133311963	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1553133507708	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.m8IoSEs7XaZX"
+1553133509087	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1553133511271	Marionette	INFO	Listening on port 49162
+1553133511528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553133511587	Marionette	DEBUG	Register listener.js for window 4294967297
+1553133511640	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553133511969	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553133511969	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553133513112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553133514281	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1553133514568	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1, line 1855: TypeError: $(...).tooltip is not a function
+1553133520989	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553133521200	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553133521200	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/foretrade/ucenter.shtml?menu_no=000&buyorsell=1"
+1553133521377	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0, line 3026: TypeError: $(...).tooltip is not a function
+1553133522106	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0"
+1553133522721	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0"
+1553133526006	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1553133529321	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1553133532560	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://211.145.72.68:8080/foretrade/skin/default/umeditor/third-party/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://211.145.72.68:8080/foretrade/gxs/customer/supplierinformation.shtml?menu_no=510301011&is_nav=0&is_basic=0, line 3026: TypeError: $(...).tooltip is not a function

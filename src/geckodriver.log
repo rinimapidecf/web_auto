@@ -1,0 +1,45 @@
+1552470963891	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.Ou6ZsUX15kLI"
+1552470964577	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552470966608	Marionette	INFO	Listening on port 54396
+1552470967106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552470967185	Marionette	DEBUG	Register listener.js for window 4294967297
+1552470971087	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1552470971165	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1552470971165	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1552470972181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552470973109	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml"
+1552470973453	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1552470979524	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P007-13\\AppData\\Local\\Temp\\rust_mozprofile.JXvD3BTweERo"
+155247098[Child 9844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+tte	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/login.shtml?ref_url=%2Fforecom%2Fmember%2Fmember_mgr.shtml%3F&layout=&goback="
+1552470984818	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/login.shtml?ref_url=%2Fforecom%2Fmember%2Fmember_mgr.shtml%3F&layout=&goback="
+1552470985095	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://211.145.72.68:8080/forecom/member/member_mgr.shtml?, line 1400: TypeError: $(...).tooltip is not a function
+1552470988111	Marionette	DEBUG	Received DOM event "beforeunload" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml?"
+1552470988164	Marionette	DEBUG	Received DOM event "pagehide" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml?"
+1552470988164	Marionette	DEBUG	Received DOM event "unload" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml?"
+1552470988275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+JavaScript error: http://211.145.72.68:8080/forecom/member/member_mgr.shtml, line 1400: TypeError: $(...).tooltip is not a function
+1552470988543	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
+1552470988903	Marionette	DEBUG	Received DOM event "pageshow" for "http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\P007-13\AppData\Local\openvr\openvrpaths.vrpath
