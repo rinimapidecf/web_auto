@@ -18,19 +18,21 @@ class TestLogin(unittest.TestCase):
         print("类初始")
         cls.driver = webdriver.Chrome()
         cls.driver.maximize_window()
+        cls.l = LoginPage(cls.driver)
+
+
 
     def setUp(self):
         print("初始")
 
     def test_1(self):
         """正常登陆"""
-        l = LoginPage(self.driver)
-        l.open(self.driver, URL_68_FORWORD)
         print("打开浏览器，输入网址")
-        l.setUserName("qweqwe123")
-        l.setPasswd("qweqwe123")
-        l.setCheckCode("1")
-        l.loginButton()
+        self.l.openBrowser(URL_68_FORWORD)
+        self.l.setUserName("qweqwe123")
+        self.l.setPasswd("qweqwe123")
+        self.l.setCheckCode("1")
+        self.l.loginButton()
         print("登录")
         time.sleep(3)
         cul = self.driver.current_url
@@ -38,18 +40,17 @@ class TestLogin(unittest.TestCase):
 
     def test_2(self):
         """记住密码登录"""
-        l = LoginPage(self.driver)
-        l.open(self.driver, URL_68_FORWORD)
         print("打开浏览器，输入网址")
-        l.setUserName("qweqwe123")
-        l.setPasswd("qweqwe123")
-        l.setCheckCode("1")
-        l.remember()
-        l.loginButton()
+        self.l.openBrowser(URL_68_FORWORD)
+        self.l.setUserName("qweqwe123")
+        self.l.setPasswd("qweqwe123")
+        self.l.setCheckCode("1")
+        self.l.remember()
+        self.l.loginButton()
         print("登录")
         time.sleep(3)
         cul = self.driver.current_url
-        self.assertIn("ucenter.shtml", cul, "不在用户中心")
+        self.assertIn("1231242314", cul, "不在用户中心")
 
 
     def tearDown(self):
