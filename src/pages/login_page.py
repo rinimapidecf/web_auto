@@ -2,6 +2,7 @@ import time
 from selenium import webdriver  # 导入webdriver包
 from selenium.webdriver.support.wait import WebDriverWait
 import unittest
+from selenium.common.exceptions import NoSuchElementException
 from src.common.base import Base
 import sys
 import os
@@ -19,15 +20,18 @@ class LoginPage(Base):
 
     def login(self, url):
         self.driver.get(url)
-        username = self.driver.find_element_by_id("username").send_keys("qweqwe123")
-        password = self.driver.find_element_by_id("password").send_keys("qweqwe123")
-        conmmit = self.driver.find_element_by_id("login_bt").click()
+        self.setUserName("qweqwe123")
+        self.setPasswd("qweqwe123")
+        self.loginButton()
         time.sleep(3)
         current_url = self.driver.current_url
         print(current_url)
 
     def setUserName(self, username):
-        self.driver.find_element_by_id("username").send_keys(username)
+        try:
+            self.driver.find_element_by_id("username").send_keys(username)
+        except NoSuchElementException:
+            print("没有找到用户名")
 
     def setPasswd(self, passwd):
         self.driver.find_element_by_id("password").send_keys(passwd)
@@ -40,6 +44,7 @@ class LoginPage(Base):
 
     def remember(self):
         self.driver.find_element_by_id("ru").click()
+
 
 
 if __name__ == "__main__":

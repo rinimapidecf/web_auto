@@ -20,8 +20,6 @@ class TestLogin(unittest.TestCase):
         cls.driver.maximize_window()
         cls.l = LoginPage(cls.driver)
 
-
-
     def setUp(self):
         print("初始")
 
