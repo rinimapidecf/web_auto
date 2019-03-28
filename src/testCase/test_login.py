@@ -50,7 +50,6 @@ class TestLogin(unittest.TestCase):
         cul = self.driver.current_url
         self.assertIn("1231242314", cul, "不在用户中心")
 
-
     def tearDown(self):
         print("结束")
 
@@ -58,4 +57,3 @@ class TestLogin(unittest.TestCase):
     def tearDownClass(cls):
         cls.driver.quit()
         print("类结束")
-
