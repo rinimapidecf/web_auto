@@ -7,6 +7,8 @@ import os
 import smtplib
 from email.mime.text import MIMEText
 from email.header import Header
+import ddt
+
 
 def sendMail1():
     # 第三方 SMTP 服务
@@ -63,9 +65,9 @@ if __name__ == "__main__":
     rootPath = os.path.split(curPath)[0]
     sys.path.append(rootPath)
 
-    casePath = "C:\\Users\\P007-13\\Desktop\\study\\src\\testCase"
+    casePath = "F:\\gitcode\\web_auto\\src\\testCase"
     report_path = "C:\\Users\\P007-13\\Desktop\\" + "report.html"
-    rule = "test_login.py"
+    rule = "test*.py"
     discover = unittest.defaultTestLoader.discover(start_dir=casePath, pattern=rule)
     print(discover)
     fp = open(report_path, "wb")
