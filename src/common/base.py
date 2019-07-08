@@ -1,4 +1,5 @@
 from selenium import webdriver
+import time
 
 class Base:
     def __init__(self,driver):
@@ -12,7 +13,7 @@ class Base:
     def closeBrowser(self):
         '关闭浏览器'
         self.driver.close()
-        self.driver.quiet()
+        self.driver.quit()
 
     def find_element(self,locat):
         eles=self.driver.find_element(locat[0],locat[1])
@@ -20,8 +21,9 @@ class Base:
 
 
 if __name__ == "__main__":
-    driver=webdriver.Firefox()
+    driver=webdriver.Chrome()
     url="http://211.145.72.68:8080/forecom/member/member_mgr.shtml"
-    base1=Base()
-    base1.open(driver,url)
-    base1.close(driver)
+    base1=Base(driver)
+    base1.openBrowser(url)
+    time.sleep(5)
+    base1.closeBrowser()
